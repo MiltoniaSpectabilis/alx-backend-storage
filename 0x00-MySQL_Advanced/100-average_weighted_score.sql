@@ -1,4 +1,4 @@
---
+-- Script that creates a stored procedure ComputeAverageWeightedScoreForUser
 DELIMITER //
 CREATE PROCEDURE ComputeAverageWeightedScoreForUser(IN user_id INT)
 BEGIN
