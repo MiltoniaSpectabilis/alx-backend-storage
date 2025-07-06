@@ -1,3 +1,2 @@
 // Fetches all docs from 'school'
-use school
 db.school.find()

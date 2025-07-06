@@ -1,2 +1,2 @@
-//
+// Lists all docs with a specified name
 db.school.find({ name: "ALX" })
